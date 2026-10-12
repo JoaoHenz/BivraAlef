@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringLanguageTable_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 1195db11a79b30c4cab33a15db671767, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 64452915200
+    m_Localized: Paziente ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1668019220480
+    m_Localized: Maschio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1828736561152
+    m_Localized: Femmina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1918100402176
+    m_Localized: "Inserisci l\u2019ID del paziente \u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2685389598720
+    m_Localized: AVANTI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4827173187584
+    m_Localized: USCITA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4837335986176
+    m_Localized: Si
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4839282143232
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5179654107136
+    m_Localized: Confermi la scelta?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5998185115648
+    m_Localized: "Hai finito l'esperimento!\r\nGRAZIE per aver partecipato\r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5975942721536
+    m_Localized: "ATTIVIT\xC0 3: \r\nAggiusta l'apertura della porta in modo tale
+      che raggiunga la\nMINIMA APERTURA necessaria per passare \r\nsenza ruotare
+      spalle o fianchi. \r\nPer aggiustare l'apertura, usa i tasti \"A\" e \"B\"
+      del controller.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5960843227136
+    m_Localized: "ATTIVIT\xC0 2: \r\nSeleziona l'avatar che meglio corrisponde alla
+      tua  \r\nIDEALE FORMA DEL CORPO.\r\nPer selezionare, usa il bottone \"grasp\"
+      del controller.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5935903895552
+    m_Localized: "ATTIVIT\xC0 1: \r\nSeleziona l'avatar che meglio corrisponde alla
+      tua  \r\nATTUALE FORMA DEL CORPO.\r\nPer selezionare, usa il bottone \"grasp\"
+      del controller.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5911274942464
+    m_Localized: "Prima di iniziare, facciamo un esercizio.\r\nProva a selezionare
+      la palla o il razzo sul tavolo.\r\nPer selezionare, usa il bottone \"grasp\"
+      del controller.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5882959196160
+    m_Localized: "BENVENUTO!\r\n\r\nTi verranno presentati 3 diversi tasks; prima
+      di ognuno, ti presenteremo le istruzioni. \r\n\r\nPer cambiare scena dopo aver
+      completato il compito, premi il bottone \"Si\".\r\n\r\nPremi il tasto sotto
+      per iniziare!\r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

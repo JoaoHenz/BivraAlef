@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringLanguageTable_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 1195db11a79b30c4cab33a15db671767, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 64452915200
+    m_Localized: Patient ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1668019220480
+    m_Localized: Homme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1828736561152
+    m_Localized: Femme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1918100402176
+    m_Localized: "Saisissez l\u2019ID du patient \u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2685389598720
+    m_Localized: CONTINUER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4827173187584
+    m_Localized: SORTIE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4837335986176
+    m_Localized: Oui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4839282143232
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5179654107136
+    m_Localized: Confirmez-vous votre choix?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5998185115648
+    m_Localized: "Vous avez termin\xE9 l'exp\xE9rience!\r\nMERCI d'avoir particip\xE9\r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5975942721536
+    m_Localized: "T\xC2CHE 3:\r\nR\xE9glez l'ouverture de la porte de mani\xE8re
+      qu'elle atteigne l'\r\nOUVERTURE MINIMALE requise pour passer\r\nsans pivoter
+      vos \xE9paules ou vos hanches.\r\nPour r\xE9gler l'ouverture, utilisez les
+      boutons \"A\" et \"B\" du contr\xF4leur.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5960843227136
+    m_Localized: "T\xC2CHE 2:\r\nS\xE9lectionnez l'avatar qui correspond le mieux
+      au v\xF4tre\r\nFORME CORPORELLE ID\xC9ALE.\r\nPour s\xE9lectionner, utilisez
+      le bouton \"saisir\" du contr\xF4leur.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5935903895552
+    m_Localized: "T\xC2CHE 1:\r\nS\xE9lectionnez l'avatar qui correspond le mieux
+      au v\xF4tre\r\nFORME CORPORELLE ACTUELLE.\r\nPour s\xE9lectionner, utilisez
+      le bouton \"saisir\" du contr\xF4leur.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5911274942464
+    m_Localized: "Avant de commencer, faisons un exercice.\r\nEssayez de s\xE9lectionner
+      la balle ou la fus\xE9e sur la table.\r\nPour s\xE9lectionner, utilisez le
+      bouton \"saisir\" du contr\xF4leur.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5882959196160
+    m_Localized: "BIENVENUE!\r\n\r\nTrois t\xE2ches diff\xE9rentes vous seront pr\xE9sent\xE9es:
+      Avant chacune d'elles, nous vous pr\xE9senterons les consignes.\r\n\r\nPour
+      changer de sc\xE8ne apr\xE8s avoir termin\xE9 la t\xE2che, appuyez sur le bouton
+      \"Oui\".\r\n\r\nAppuyez sur le bouton ci-dessous pour commencer!\r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

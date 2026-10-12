@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringLanguageTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1195db11a79b30c4cab33a15db671767, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 64452915200
+    m_Localized: Patient ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1668019220480
+    m_Localized: Male
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1828736561152
+    m_Localized: Female
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1918100402176
+    m_Localized: "Insert the patient\u2019s ID \u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2685389598720
+    m_Localized: NEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4827173187584
+    m_Localized: EXIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4837335986176
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4839282143232
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5179654107136
+    m_Localized: Confirm selection?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5998185115648
+    m_Localized: "You have finished the experiment!\r\nTHANK YOU for participating\r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5975942721536
+    m_Localized: "TASK 3:\r\nAdjust the door opening so that it reaches the\r\nMINIMUM
+      OPENING necessary to pass\r\nwithout rotating your shoulders or hips.\r\nTo
+      adjust the opening, use the \"A\" and \"B\" buttons on the controller.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5960843227136
+    m_Localized: "TASK 2:\r\nSelect the avatar that best matches your\r\nIDEAL BODY
+      SHAPE.\r\nTo select, use the \"grasp\" button on the controller.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5935903895552
+    m_Localized: "TASK 1:\r\nSelect the avatar that best matches your\r\nCURRENT
+      BODY SHAPE.\r\nTo select, use the \"grasp\" button on the controller.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5911274942464
+    m_Localized: "Before we start, let's do an exercise.\r\nTry selecting the ball
+      or rocket on the table.\r\nTo select, use the \"grasp\" button on the controller.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5882959196160
+    m_Localized: "WELCOME!\r\n\r\nYou will be presented with 3 different tasks; before
+      each one, we will present you with instructions.\r\n\r\nTo change the scene
+      after completing the task, press the \"Yes\" button.\r\n\r\nPress the button
+      below to start!\r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

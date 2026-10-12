@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: c16c7d72bbdb3134bb90c9ce8f22642f
+  - enabled: 1
+    path: Assets/Scenes/Initial.unity
+    guid: 0ef87941e88e4dc49a20f5107e7f74c0
+  - enabled: 1
+    path: Assets/Scenes/Welcome.unity
+    guid: bfe694d849b869d4b9baaa9d6060bc18
+  - enabled: 1
+    path: Assets/Scenes/Practice.unity
+    guid: fd37e674e6248cb42b87c61070148f7a
+  - enabled: 1
+    path: Assets/Scenes/Instructions1.unity
+    guid: 7644281947529ef488fbaec3c2d98703
+  - enabled: 1
+    path: Assets/Scenes/Females1.unity
+    guid: cc9ef75ca0fb2eb41a2a8ea222dc8331
+  - enabled: 1
+    path: Assets/Scenes/Females2.unity
+    guid: 110ddf918122e6948a94edd5cc1f5fe4
+  - enabled: 1
+    path: Assets/Scenes/Females3.unity
+    guid: 6b527bf5a4c25c049b4520d9ac5de997
+  - enabled: 1
+    path: Assets/Scenes/Females4.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Females5.unity
+    guid: 85c42aad96edb8b4ab40966b2ba5b5db
+  - enabled: 1
+    path: Assets/Scenes/Instructions2.unity
+    guid: 83332ca04a2639b40bdaccfaf620775e
+  - enabled: 1
+    path: Assets/Scenes/Females1b.unity
+    guid: 9c376bed1d5aef84e99740a65c4665b9
+  - enabled: 1
+    path: Assets/Scenes/Females2b.unity
+    guid: ab96ca4283cf240468ecff94de8245a3
+  - enabled: 1
+    path: Assets/Scenes/Females3b.unity
+    guid: 8e4be39f74d165c4dbf2de707e30e1b0
+  - enabled: 1
+    path: Assets/Scenes/Females4b.unity
+    guid: 8c3c54804398af54aac086fb88d51695
+  - enabled: 1
+    path: Assets/Scenes/Females5b.unity
+    guid: ccacff19d6e01e241b76fd51b38a7b20
+  - enabled: 1
+    path: Assets/Scenes/Instructions3.unity
+    guid: 29f4a83550487b144b269b30ede5ddd2
+  - enabled: 1
+    path: Assets/Scenes/Door1.unity
+    guid: 3cd204ac0a29d834d97e4eb9ad8f5f60
+  - enabled: 1
+    path: Assets/Scenes/Door2.unity
+    guid: 061d392aff8dacd41a8b341ca14c7b54
+  - enabled: 1
+    path: Assets/Scenes/Door3.unity
+    guid: 6792d7bd736b9a84f9dcf44caefc5f14
+  - enabled: 1
+    path: Assets/Scenes/Door4.unity
+    guid: 24e94ef9a41ca564d9d2ac2c3232a669
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 8124f3b3f06441b48b2d32e208e5ac18
+  - enabled: 1
+    path: Assets/Scenes/Results.unity
+    guid: c470807c0f1a2d8458194e1c97bc15e6
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 7df4c32541c151b49ab3af5a25cf45b7, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: 14d041a816d573e4d8b1da5cfb080bde, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 752a2a1e29caef940a5c5d9488edbd18, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 988b26006a235aa4cb73f7be771cc95c, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: cc1981387cbbaef4fb484f0ea66d76fe, type: 2}
